@@ -4,5 +4,5 @@
 
 ### requirement
 1. Python version >= 3.6.5
-2. Tensorflow >= 1.0
+2. Tensorflow >= 1.2.0
 3. Keras >= 2.1.3 
