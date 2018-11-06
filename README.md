@@ -11,7 +11,7 @@ Dataset for our experiment will be released soon.
 1. Use `python create_file_list.py` to create the __origial file list__.
 2. Use `python four_random.py` or `python two_random.py` to create __random file list__ for four-class or binary classification.
 3. Trian your models by using `python train_and_val.py`.
-4. Caculate accuracy, sensitivity and specificity by using `python acc_sen_spe.py` when you have trained a model. 
+4. Caculate accuracy, sensitivity and specificity by using `python acc_sen_spe.py` when your model is well trained already.
 5. Code in __Plot__ can help you plot figures below.
 
 <div align='center'><img src="https://github.com/ssea-lab/DL4ETI/blob/master/readme_img/CM.png"/></div>
