@@ -1,6 +1,6 @@
 # DL4ETI
 ## Data
-Dataset for our experiment will release soon.
+Dataset for our experiment will be released soon.
 
 ## Requirements
 1. Python version >= 3.6.5
