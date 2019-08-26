@@ -14,5 +14,5 @@ Dataset for our experiment will be released soon.
 4. Caculate accuracy, sensitivity and specificity by using `python acc_sen_spe.py` when your model is well trained already.
 5. Code in __Plot__ can help you plot figures below.
 
-<div align='center'><img src="https://github.com/ssea-lab/DL4ETI/blob/master/readme_img/CM.png"/></div>
-<div align='center'><img width="450" height="450" src="https://github.com/ssea-lab/DL4ETI/blob/master/readme_img/ROC.png"/></div>
+<div align='center'><img src="https://github.com/ssea-lab/DL4ETI/blob/master/readme/CM.png"/></div>
+<div align='center'><img width="450" height="450" src="https://github.com/ssea-lab/DL4ETI/blob/master/readme/ROC.png"/></div>
