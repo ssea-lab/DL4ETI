@@ -1,5 +1,5 @@
 # DL4ETI
-### Paper Info
+## Paper Info
 Hao Sun, Xianxu Zeng, Tao Xu, Gang Peng, and Yutao Ma, "Computer-Aided Diagnosis in Histopathological Images of the Endometrium Using a Convolutional Neural Network and Attention Mechanisms," IEEE Journal of Biomedical and Health Informatics, DOI: 10.1109/JBHI.2019.2944977, 2019.
 ## DataSet
 This dataset that consists of 3,302 pathologically proven JPEG files of digital histopathological images of the endometrium is available for download at https://doi.org/10.6084/m9.figshare.7306361.v2
