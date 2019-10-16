@@ -1,18 +1,10 @@
 # DL4ETI
-## Data
-Dataset for our experiment will be released soon.
-
+### Paper Info
+Hao Sun, Xianxu Zeng, Tao Xu, Gang Peng, and Yutao Ma, "Computer-Aided Diagnosis in Histopathological Images of the Endometrium Using a Convolutional Neural Network and Attention Mechanisms," IEEE Journal of Biomedical and Health Informatics, DOI: 10.1109/JBHI.2019.2944977, 2019.
+## DataSet
+This dataset that consists of 3,302 pathologically proven JPEG files of digital histopathological images of the endometrium is available for download at https://doi.org/10.6084/m9.figshare.7306361.v2
 ## Requirements
 1. Python version >= 3.6.5
 2. Tensorflow >= 1.2.0
 3. Keras >= 2.1.3  
 
-## Usage
-1. Use `python create_file_list.py` to create the __origial file list__.
-2. Use `python four_random.py` or `python two_random.py` to create __random file list__ for four-class or binary classification.
-3. Trian your models by using `python train_and_val.py`.
-4. Caculate accuracy, sensitivity and specificity by using `python acc_sen_spe.py` when your model is well trained already.
-5. Code in __Plot__ can help you plot figures below.
-
-<div align='center'><img src="https://github.com/ssea-lab/DL4ETI/blob/master/readme/CM.png"/></div>
-<div align='center'><img width="450" height="450" src="https://github.com/ssea-lab/DL4ETI/blob/master/readme/ROC.png"/></div>
